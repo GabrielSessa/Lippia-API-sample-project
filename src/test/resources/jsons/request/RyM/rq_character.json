@@ -1,0 +1,8 @@
+{
+  "url": "https://rickandmortyapi.com/api",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": {},
+  "endpoint": "/character/{{character}}"
+}
